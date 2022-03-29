@@ -1,0 +1,2 @@
+netty=com.LMZ.remoting.transport.netty.client.NettyRpcClient
+socket=com.LMZ.remoting.transport.socket.SocketRpcClient
