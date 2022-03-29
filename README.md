@@ -55,10 +55,9 @@ public class NettyClientMain {
 ************
 
 # 包介绍
-
-![1648517624544](![image](https://user-images.githubusercontent.com/96616876/160517160-f54947f3-fd5a-4a9d-92b1-b8276717d526.png))
-
-![1648518036394](![image](https://user-images.githubusercontent.com/96616876/160517201-5d80b62c-90a1-482d-9677-aeab2257629c.png))
+common-----工具类
+controller---测试代码
+main------主要代码
 
 # 架构参考
 
